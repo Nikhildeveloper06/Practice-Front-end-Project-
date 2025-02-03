@@ -1,2 +1,2 @@
-# Practice-Front-end-Project-
-I’m excited to share my second project—a web page built using HTML and CSS! This project allowed me to strengthen my skills in frontend development, focusing on creating responsive designs and writing clean, semantic code. 🔧 Skills Applied: Structuring content with HTML Custom styling with CSS Designing for mobile-friendly experiences 
+# Project-2-
+This project is a basic web page created using HTML and CSS, showcasing my skills in frontend web development. It features a clean, responsive layout with structured content, demonstrating the fundamentals of web design.  Key Features:  Semantic HTML structure Custom CSS styling Mobile-friendly responsive design
